@@ -22,7 +22,19 @@
 		primary details
 		=============================================================
 	</iscomment>
-
+<iscomment>
+		primary details
+		=============================================================
+	</iscomment>
+	<iscomment>
+		primary details
+		=============================================================
+	</iscomment>
+	<iscomment>
+		primary details
+		=============================================================
+	</iscomment>
+	
 	<h2 class="visually-hidden">Details</h2>
 	<span class="visually-hidden" itemprop="url">${URLUtils.http('Product-Show','pid', pdict.Product.ID)}</span>
 
