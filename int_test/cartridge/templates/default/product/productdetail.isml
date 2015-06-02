@@ -1,7 +1,13 @@
 <iscontent type="text/html" charset="UTF-8" compact="true"/>
 <iscache type="relative" hour="24" varyby="price_promotion"/>
 <isset name="isQuickView" value="${pdict.CurrentHttpParameterMap.source.stringValue == 'quickview' || pdict.CurrentHttpParameterMap.source.stringValue == 'cart' || pdict.CurrentHttpParameterMap.source.stringValue == 'giftregistry' || (pdict.CurrentHttpParameterMap.source.stringValue == 'wishlist' && empty(pdict.CurrentHttpParameterMap.format))}" scope="page"/>
-
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
+<iscomment>test test test</iscomment>
 <isobject object="${pdict.Product}" view="detail">
 	<div id="pdpMain" class="pdp-main"  itemscope itemtype="http://schema.org/Product">				
 		<iscomment>Image and variation options are part of the include template</iscomment>
